@@ -199,7 +199,7 @@ void EMP_CLASS::Search()
   cout<<"\n Record is not present in the file";
   return;
   }
-  else //emp_id=desired record’s id
+  else //emp_id=desired recordâ€™s id
   {
   cout<<"\n The Record is present in the file and it is...";
   cout<<"\n Name: "<<Records.name;
